@@ -484,6 +484,7 @@ Use these resources to choose an evaluation layer that matches the user outcome.
 | [TRG (Timing-Recovery-Grounded)](https://github.com/shivamnegi92/voice-agent-eval-corpus) | Minimum reporting standard, not a benchmark itself: a compliance checker and shared-evaluator leaderboard that won't certify a report staying silent on an axis its deployment actually exercises (e.g. recovery after interruption). Ships with a 128-source corpus (v1.1.1) and a live [demo](https://huggingface.co/spaces/shivamnegi92/trg-voice-agent-eval). | 最小上报标准（非基准本身）：合规检查器+统一评测者排行榜，拒绝认证遗漏关键轴（如打断后恢复）的报告；附 v1.1.1 的 128 篇来源语料库 |
 | [ru-speech-bench](https://github.com/meshoklv/ru-speech-bench) | Hands-on benchmark of speech engines for Russian voice agents (STT, TTS, turn detection) with scripts, raw numbers, hardware and licenses | 俄语语音智能体的语音引擎实测（STT、TTS、轮次检测），附脚本、原始数据、硬件与许可证 |
 | [NovaSynth](https://noveum.ai/en/novasynth) | Hosted voice-agent testing over phone or LiveKit, with configurable callers and scenarios, batch runs, recordings, transcripts and regression evaluations. [Docs](https://noveum.ai/en/docs/novasynth/overview) | 商业 Freemium 服务；需账号与测试端点配置，支持模拟呼叫者和批量回归评估 |
+| [Fullduplex](https://www.fullduplex.ai/benchmarks) | Index of full-duplex and speech-to-speech benchmarks, models and datasets. The [Analytics](https://www.fullduplex.ai/analytics) page charts published Full-Duplex-Bench scores, each tied to the paper or README it came from. | 全双工与语音到语音的基准、模型和数据集索引；Analytics 页按原始出处展示已发表的 Full-Duplex-Bench 分数 |
 
 ### Technical Blogs & Documentation | 技术博客与文档
 
