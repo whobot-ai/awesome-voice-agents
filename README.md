@@ -65,6 +65,7 @@ Add WeChat | 添加江树微信: **1796060717**
 | [Gradbot](https://github.com/gradium-ai/gradbot) | ![GitHub Repo stars](https://badgen.net/github/stars/gradium-ai/gradbot) | Open-source Rust framework to prototype voice agents on Gradium TTS/STT APIs. Apache-2.0. | Rust 开源框架，基于 Gradium API 快速搭建语音智能体 |
 | [Unmute (SLNG)](https://github.com/slng-ai/unmute) | ![GitHub Repo stars](https://badgen.net/github/stars/slng-ai/unmute) | Declarative format for voice agents: define once in YAML and compile to Pipecat or LiveKit. Generated Python is yours — Dockerfile, pinned deps — and deploys to Pipecat Cloud, LiveKit Cloud, SLNG or your own infrastructure. | SLNG 出品，一次定义，编译到 Pipecat 或 LiveKit，生成代码归你所有 |
 | [feros](https://github.com/ferosai/feros) | ![GitHub Repo stars](https://badgen.net/github/stars/ferosai/feros) | Apache-2.0 voice-agent framework with a Rust runtime and a self-hosted control plane for telephony, integrations and operations. | Rust 语音 Agent 运行时与自托管控制台，覆盖电话接入、集成与运维 |
+| [Brisvox](https://github.com/bilal07karadeniz/brisvox) | ![GitHub Repo stars](https://badgen.net/github/stars/bilal07karadeniz/brisvox) | Rust engine for real-time voice agents: phone (Twilio, Telnyx, SIP) and browser (WebRTC, WebSocket) calls, interruptions and tool calls, Python and TypeScript SDKs, compatible with Pipecat RTVI clients. MIT / Apache-2.0. | Rust 实时语音 Agent 引擎，单进程承载数百路通话，支持电话与浏览器接入 |
 
 ### Specialized Solutions | 专用解决方案
 
