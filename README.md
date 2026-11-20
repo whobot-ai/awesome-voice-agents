@@ -377,6 +377,7 @@ Talk to (and be talked to by) AI coding assistants like Claude Code, Cursor and 
 | [Swifly](https://www.swifly.me/) | Cloud AI dictation and voice typing for macOS, Windows, and iPhone, with rewriting, translation, a personal dictionary, and reusable snippets. | Free Basic and paid plans; internet required; features vary by platform. |
 | [Yap](https://yapapp.cc) | On-device dictation for Mac and Windows (x64 and native Arm64): hold a key, speak, and the text is typed into any app, including terminals and AI coding agents like Claude Code, Codex and Cursor. Supports multilingual local speech recognition. | 本地识别的听写工具（Mac/Windows），隐私优先；免费试用后按月订阅 / Private, on-device; free days and a trial, then subscription |
 | [SayDart](https://saydart.com/) | AI voice dictation for Windows and macOS: hold a key, speak, and polished text appears in any app. | Limited free plan and paid Pro plan; desktop app. |
+| [Speakey for Mac](https://getspeakey.com/) | A voice agent for Apple silicon Macs that opens apps and moves windows, with offline dictation. | Freemium with a one-time Pro upgrade. |
 
 ---
 
