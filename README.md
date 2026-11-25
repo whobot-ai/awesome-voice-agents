@@ -495,6 +495,7 @@ Use these resources to choose an evaluation layer that matches the user outcome.
 | [Krisp Blog: Turn-Taking](https://krisp.ai/blog/improving-turn-taking-of-ai-voice-agents-with-background-voice-cancellation/) | Background noise cancellation improves turn-taking. Evaluation and results. | 背景噪音消除改善话轮 |
 | [Speechmatics: Semantic Turn Detection](https://blog.speechmatics.com/semantic-turn-detection) | Semantic turn detection with SLM. Implementation guide, threshold tuning. | 使用 SLM 的语义话轮检测 |
 | [Agora: TEN VAD & Turn Detection](https://www.agora.io/en/blog/making-voice-ai-agents-more-human-with-ten-vad-and-turn-detection/) | Making voice agents more human with TEN VAD and Turn Detection. | TEN 的 VAD 和话轮检测 |
+| [Toolcrew: AI voice agent cost per minute](https://toolcrew.app/ai-voice-agent-cost-per-minute) | Per-minute prices for developer voice platforms (Vapi, Retell, Bland, ElevenLabs Agents, Synthflow), read from each vendor's pricing page and shown in USD at 1,000, 10,000 and 50,000 minutes a month, with what each rate leaves out (for example telephony). Updated daily. | 商业网站：开发者语音平台每分钟价格对比（美元），注明每个费率未包含的部分 |
 
 ---
 
