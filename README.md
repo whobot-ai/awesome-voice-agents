@@ -484,6 +484,7 @@ Use these resources to choose an evaluation layer that matches the user outcome.
 | [TRG (Timing-Recovery-Grounded)](https://github.com/shivamnegi92/voice-agent-eval-corpus) | Minimum reporting standard, not a benchmark itself: a compliance checker and shared-evaluator leaderboard that won't certify a report staying silent on an axis its deployment actually exercises (e.g. recovery after interruption). Ships with a 128-source corpus (v1.1.1) and a live [demo](https://huggingface.co/spaces/shivamnegi92/trg-voice-agent-eval). | 最小上报标准（非基准本身）：合规检查器+统一评测者排行榜，拒绝认证遗漏关键轴（如打断后恢复）的报告；附 v1.1.1 的 128 篇来源语料库 |
 | [ru-speech-bench](https://github.com/meshoklv/ru-speech-bench) | Hands-on benchmark of speech engines for Russian voice agents (STT, TTS, turn detection) with scripts, raw numbers, hardware and licenses | 俄语语音智能体的语音引擎实测（STT、TTS、轮次检测），附脚本、原始数据、硬件与许可证 |
 | [NovaSynth](https://noveum.ai/en/novasynth) | Hosted voice-agent testing over phone or LiveKit, with configurable callers and scenarios, batch runs, recordings, transcripts and regression evaluations. [Docs](https://noveum.ai/en/docs/novasynth/overview) | 商业 Freemium 服务；需账号与测试端点配置，支持模拟呼叫者和批量回归评估 |
+| [HardCall](https://hardcall.statementflow.win) | Open-source full-duplex barge-in & interruption latency benchmark (~52ms WebRTC browser stress test + 60ms raw 8kHz PCMU/PCMA RTP & FreeSWITCH telephony reference). [GitHub](https://github.com/wangguode/hardcall) | 开源全双工语音打断延迟评测基准（浏览器端 52ms 实测 + 8kHz RTP 电话网关参考实现），免费在线实测 |
 
 ### Technical Blogs & Documentation | 技术博客与文档
 
